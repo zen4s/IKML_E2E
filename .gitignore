@@ -124,7 +124,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
-.DS_Store
+.DS_Store           ## Subhra's macbook pro file to ignore
 env/
 venv/
 ENV/
